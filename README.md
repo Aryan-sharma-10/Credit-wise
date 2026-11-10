@@ -59,18 +59,18 @@ The dataset contains historical loan applicant records. Each row represents an i
 The models are evaluated and compared to identify the best-performing algorithm.
 
 ## 📈 Model Evaluation
-The models are evaluated using the following metrics:
-Logistic Regression Model
-Precision:  0.7903225806451613
-Recall:  0.8032786885245902
-F1 score:  0.7967479674796748
-Accuracy:  0.875
 
-Naive Bayes Model
-Precision:  0.7833333333333333
-Recall:  0.7704918032786885
-F1 score:  0.7768595041322314
-Accuracy:  0.865
+The models were evaluated using Accuracy, Precision, Recall, and F1-Score.
+
+| Evaluation Metric | Logistic Regression | Naive Bayes |
+|---|---:|---:|
+| Accuracy | 87.50% | 86.50% |
+| Precision | 79.03% | 78.33% |
+| Recall | 80.33% | 77.05% |
+| F1-Score | 79.67% | 77.69% |
+
+### Best Performing Model
+**Logistic Regression** achieved the highest performance among the evaluated models, with an accuracy of **87.50%** and an F1-Score of **79.67%**.
 
 **Best Performing Model:** Logistic Regression
 
