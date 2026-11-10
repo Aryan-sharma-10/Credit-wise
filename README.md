@@ -19,28 +19,28 @@ The dataset contains historical loan applicant records. Each row represents an i
 
 ### Key Features
 
-Feature                      Description 
-
-Applicant_ID                 Unique applicant identifier
-Applicant_Income             Monthly applicant income 
-Coapplicant_Income           Monthly co-applicant income 
-Employment_Status            Employment type 
-Age                          Applicant's age 
-Marital_Status               Marital status 
-Dependents                   Number of dependents 
-Credit_Score                 Credit bureau score 
-Existing_Loans               Number of existing loans 
-DTI_Ratio                    Debt-to-Income ratio 
-Savings                      Applicant's savings 
-Collateral_Value             Value of collateral 
-Loan_Amount                  Requested loan amount 
-Loan_Term                    Loan duration in months 
-Loan_Purpose                 Purpose of the loan 
-Property_Area                Urban / Semi-Urban / Rural 
-Education_Level              Education qualification 
-Gender                       Applicant's gender 
-Employer_Category            Employer type 
-Loan_Approved                Target variable (1 = Approved, 0 = Rejected) 
+| Feature | Description |
+|---|---|
+| Applicant_ID | Unique applicant identifier |
+| Applicant_Income | Monthly applicant income |
+| Coapplicant_Income | Monthly co-applicant income |
+| Employment_Status | Employment type |
+| Age | Applicant's age |
+| Marital_Status | Marital status |
+| Dependents | Number of dependents |
+| Credit_Score | Credit bureau score |
+| Existing_Loans | Number of existing loans |
+| DTI_Ratio | Debt-to-Income ratio |
+| Savings | Applicant's savings |
+| Collateral_Value | Value of collateral |
+| Loan_Amount | Requested loan amount |
+| Loan_Term | Loan duration in months |
+| Loan_Purpose | Purpose of the loan |
+| Property_Area | Urban / Semi-Urban / Rural |
+| Education_Level | Education qualification |
+| Gender | Applicant's gender |
+| Employer_Category | Employer type |
+| Loan_Approved | Target variable (1 = Approved, 0 = Rejected) | 
 
 ## ⚙️ Project Workflow
 1. Data Collection and Loading
